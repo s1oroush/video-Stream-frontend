@@ -23,7 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+#video-player{
+  display: none;
+}
 
+#video-form{
+  width: 60%;
+
+}
 .App-link {
   color: #61dafb;
 }
